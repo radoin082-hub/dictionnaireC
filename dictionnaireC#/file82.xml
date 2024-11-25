@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<films>
+  <film>
+    <title>The Godfather</title>
+    <description>A tale of love and loss set against the backdrop of a futuristic world.</description>
+    <image>/image/inception.jpg</image>
+    <category>Historical</category>
+  </film>
+</films>

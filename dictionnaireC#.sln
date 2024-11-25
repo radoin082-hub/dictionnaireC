@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dictionnaireC#", "dictionnaireC#\dictionnaireC#.csproj", "{D0B9DB04-8D1F-4230-81BF-300335EFF839}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorApp1", "BlazorApp1\BlazorApp1.csproj", "{FB5DBC9A-8620-4B3B-ABDB-5A7B518E1643}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D0B9DB04-8D1F-4230-81BF-300335EFF839}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0B9DB04-8D1F-4230-81BF-300335EFF839}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0B9DB04-8D1F-4230-81BF-300335EFF839}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB5DBC9A-8620-4B3B-ABDB-5A7B518E1643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB5DBC9A-8620-4B3B-ABDB-5A7B518E1643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB5DBC9A-8620-4B3B-ABDB-5A7B518E1643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB5DBC9A-8620-4B3B-ABDB-5A7B518E1643}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

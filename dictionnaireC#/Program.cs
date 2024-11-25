@@ -1,118 +1,85 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Xml;
 using System.IO;
+using System.Xml.Linq;
 
-class ArticleDictionary
+class Program
 {
-	private Dictionary<string, HashSet<string>> wordDictionary = new Dictionary<string, HashSet<string>>();
+    static void Main()
+    {
+        string directoryPath = @"C:\Users\radoi\source\repos\dictionnaireC#\dictionnaireC#";
+        if (!Directory.Exists(directoryPath))
+        {
+            Directory.CreateDirectory(directoryPath);
+        }
 
-	
-	public void LoadWordsFromXmlFiles(List<string> filePaths)
-	{
-		foreach (string filePath in filePaths)
-		{
-			if (!File.Exists(filePath))
-			{
-				Console.WriteLine($"not found: {filePath}");
-				continue;
-			}
-
-			XmlDocument xmlDoc = new XmlDocument();
-			try
-			{
-				
-				XmlReaderSettings settings = new XmlReaderSettings
-				{
-					DtdProcessing = DtdProcessing.Ignore, 
-					XmlResolver = null 
-				};
-				using (XmlReader reader = XmlReader.Create(filePath, settings))
-				{
-					xmlDoc.Load(reader);
-				}
-
-				Console.WriteLine($"Processing file: {filePath}");
-
-				
-				XmlNodeList articleNodes = xmlDoc.GetElementsByTagName("article");
-				foreach (XmlNode articleNode in articleNodes)
-				{
-				
-					var words = articleNode.InnerText
-						.ToLower() 
-						.Split(new[] { ' ', ',', '.', '!', '?', ';', ':', '(', ')', '\n', '\r', '\t' }, StringSplitOptions.RemoveEmptyEntries);
-
-					foreach (var word in words)
-					{
-						
-						if (!wordDictionary.ContainsKey(word))
-						{
-							wordDictionary[word] = new HashSet<string>();
-						}
-						wordDictionary[word].Add(filePath);
-					}
-				}
-			}
-			catch (XmlException ex)
-			{
-				Console.WriteLine($"error loading file {filePath}: {ex.Message}");
-			}
-			catch (IOException ex)
-			{
-				Console.WriteLine($"file error {filePath}: {ex.Message}");
-			}
-		}
-	}
-
-	
-	public HashSet<string> SearchWord(string word)
-	{
-		string normalizedWord = word.ToLower();
-		if (wordDictionary.TryGetValue(normalizedWord, out var fileLocations))
-		{
-			return fileLocations;
-		}
-		else
-		{
-			return new HashSet<string>();
-		}
-	}
-
-	static void Main(string[] args)
-	{
-		ArticleDictionary articleDict = new ArticleDictionary();
-
-		
-		List<string> filePaths = new List<string>
-		{
-			@"C:\Users\radoi\source\repos\dictionnaireC#\dictionnaireC#\file1.xml",
-			@"C:\Users\radoi\source\repos\dictionnaireC#\dictionnaireC#\file2.xml",
-			@"C:\Users\radoi\source\repos\dictionnaireC#\dictionnaireC#\file3.xml",
-            
+        // Define random data for films
+        string[] titles = { "Parasite", "Inception", "Interstellar", "Avatar", "The Godfather", "Gladiator", "The Dark Knight" };
+        string[] descriptions = {
+            "A young woman must outsmart a ruthless corporation to protect her family and future.",
+            "An unlikely hero rises in a time of war, proving that courage comes in many forms.",
+            "A mysterious disappearance forces a detective to uncover dark family secrets.",
+            "A poor family’s rise as they infiltrate the lives of the rich and powerful.",
+            "An epic journey of survival and revenge in a harsh wilderness.",
+            "A tale of love and loss set against the backdrop of a futuristic world."
         };
+        string[] images = { 
+            "/image/asd.jpg",
+            "/image/avatar.jpg",
+            "/image/avengers.jpg",
+            "/image/dark_knight.jpg",
+            "/image/dark_knight_rises.jpg",
+            "/image/django_unchained.jpg",
+            "/image/fight_club.jpg",
+            "/image/forrest_gump.jpg",
+            "/image/gladiator.jpg",
+            "/image/godfather.jpg ",                                                                            
+            "/image/inception.jpg",
+            "/image/interstellar.jpg",
+            "/image/lion_king.jpg",
+            "/image/matrix.jpg",
+            "/image/MV5B_.jpg",
+            "/image/parasite.jpg",
+            "/image/prestige.jpg",
+            "/image/pulp_fiction.jpg",
+            "/image/schindlers_list.jpg",
+            "/image/shawshank_redemption.jpg",
+            "/image/silence_of_the_lambs.jpg",
+            "/image/titanic.jpg",
+            "/image/2264086.jpg-c_310_420_x-f_jpg-q_x-xxyxx.jpg",
+            "/image/vbG0zu0lIVDZZaUVOZuBIE9kno3.jpg",
+        };
+        string[] categories = { "Historical", "Animation", "Western", "Drama", "Action", "Sci-Fi" };
 
-		articleDict.LoadWordsFromXmlFiles(filePaths);
+        Random random = new Random();
 
-		while (true) 
-		{
-			Console.WriteLine("enter a word to search (or type 'exit' to quit):");
-			string searchWord = Console.ReadLine();
-			if (searchWord?.ToLower() == "exit") break;
+        for (int i = 1; i <= 100; i++)
+        {
+            string fileName = $"file{i}.xml";
+            string filePath = Path.Combine(directoryPath, fileName);
 
-			var locations = articleDict.SearchWord(searchWord);
-			if (locations.Count > 0)
-			{
-				Console.WriteLine($"the word '{searchWord}' is found in the following files:");
-				foreach (var file in locations)
-				{
-					Console.WriteLine($"- {file}");
-				}
-			}
-			else
-			{
-				Console.WriteLine($"the word '{searchWord}' was not found in any files.!!!");
-			}
-		}
-	}
+            // Generate random film data
+            var xmlContent = new XDocument(
+                new XElement("films",
+                    new XElement("film",
+                        new XElement("title", titles[random.Next(titles.Length)]),
+                        new XElement("description", descriptions[random.Next(descriptions.Length)]),
+                        new XElement("image", images[random.Next(images.Length)]),
+                        new XElement("category", categories[random.Next(categories.Length)])
+                    )
+                )
+            );
+
+            try
+            {
+                xmlContent.Save(filePath);
+                Console.WriteLine($"Created: {filePath}");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error creating file {filePath}: {ex.Message}");
+            }
+        }
+
+        Console.WriteLine("XML file creation completed!");
+    }
 }

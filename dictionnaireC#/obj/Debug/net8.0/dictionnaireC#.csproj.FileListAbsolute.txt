@@ -12,3 +12,4 @@ C:\Users\radoi\source\repos\dictionnaireC#\dictionnaireC#\obj\Debug\net8.0\refin
 C:\Users\radoi\source\repos\dictionnaireC#\dictionnaireC#\obj\Debug\net8.0\dictionnaireC#.pdb
 C:\Users\radoi\source\repos\dictionnaireC#\dictionnaireC#\obj\Debug\net8.0\dictionnaireC#.genruntimeconfig.cache
 C:\Users\radoi\source\repos\dictionnaireC#\dictionnaireC#\obj\Debug\net8.0\ref\dictionnaireC#.dll
+C:\Users\radoi\source\repos\dictionnaireC#\dictionnaireC#\obj\Debug\net8.0\dictionnaireC#.sourcelink.json

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<films>
+  <film>
+    <title>The Godfather</title>
+    <description>A poor family’s rise as they infiltrate the lives of the rich and powerful.</description>
+    <image>/image/parasite.jpg</image>
+    <category>Sci-Fi</category>
+  </film>
+</films>

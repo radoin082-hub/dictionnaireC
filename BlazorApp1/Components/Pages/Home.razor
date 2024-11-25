@@ -1,0 +1,101 @@
+﻿@page "/"
+@using System.Xml.Linq
+<PageTitle>Home</PageTitle>
+
+<h1>Film Cards</h1>
+
+
+<div class="card-container">
+    @foreach (var film in films)
+    {
+        <div class="card" style="width: 18rem; margin: 10px;">
+            <img src="@film.Image" class="card-img-top" alt="@film.Title"/>
+            <div class="card-body">
+                <h5 class="card-title">@film.Title</h5>
+                <p class="card-text">
+                    @((film.Description.Length > 100)
+                        ? film.Description.Substring(0, 100) + "..."
+                        : film.Description)
+                </p>
+                <p class="card-text">Category: @film.Category</p>
+                <a href="#" class="btn btn-primary">Learn More</a>
+            </div>
+        </div>
+    }
+</div>
+
+@code {
+
+    public class Film
+    {
+        public string Title { get; set; }
+        public string Description { get; set; }
+        public string Image { get; set; }
+        public string Category { get; set; }
+    }
+
+    private List<Film> films = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        string basePath = @"C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\dictionnaireC#\\";
+
+
+        for (int i = 1; i <= 100; i++)
+        {
+            string filePath = Path.Combine(basePath, $"file{i}.xml");
+
+            if (File.Exists(filePath))
+            {
+                try
+                {
+                    var xmlContent = await File.ReadAllTextAsync(filePath);
+                    var xDoc = XDocument.Parse(xmlContent);
+
+
+                    var fileFilms = xDoc.Descendants("film")
+                        .Select(f => new Film
+                        {
+                            Title = f.Element("title")?.Value,
+                            Description = f.Element("description")?.Value,
+                            Image = f.Element("image")?.Value,
+                            Category = f.Element("category")?.Value
+                        })
+                        .ToList();
+
+                    films.AddRange(fileFilms); // Add to the main list
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine($"Error reading file {filePath}: {ex.Message}");
+                }
+            }
+            else
+            {
+                Console.WriteLine($"File not found: {filePath}");
+            }
+        }
+
+        Console.WriteLine($"Loaded {films.Count} films from XML files.");
+    }
+
+}
+
+<style>
+    .card-container {
+        display: flex;
+        flex-wrap: wrap; /* Allow cards to wrap to the next line if necessary */
+        gap: 20px; /* Add spacing between cards */
+        justify-content: space-evenly; /* Space the cards evenly */
+    }
+
+    .card {
+        flex: 0 0 calc(25% - 20px); /* Make cards take up 25% of the container width minus spacing */
+        box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Optional: Add a shadow for aesthetics */
+    }
+
+    .card img {
+        height: 200px; /* Set a fixed height for images */
+        object-fit: cover; /* Ensure the image fits within the space */
+    }
+</style>

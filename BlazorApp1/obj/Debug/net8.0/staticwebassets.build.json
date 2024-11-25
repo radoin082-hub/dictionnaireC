@@ -1,0 +1,3112 @@
+{
+  "Version": 1,
+  "Hash": "AAJreO1ux90Cno+s2VEsfGMKeSG+jGXIm0j1KjB5XTw=",
+  "Source": "BlazorApp1",
+  "BasePath": "_content/BlazorApp1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BlazorApp1\\wwwroot",
+      "Source": "BlazorApp1",
+      "ContentRoot": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\",
+      "BasePath": "_content/BlazorApp1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorApp1.styles.css",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "BlazorApp1#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "72xb8i838x",
+      "Integrity": "H0yk2f3SKVI6BzyDxugrSmp2TQwR1fd/2rrOvmD2jFA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorApp1.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorApp1.bundle.scp.css",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "BlazorApp1#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "72xb8i838x",
+      "Integrity": "H0yk2f3SKVI6BzyDxugrSmp2TQwR1fd/2rrOvmD2jFA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorApp1.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\app.css",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "da95v2qkru",
+      "Integrity": "u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6gzpyzhau4",
+      "Integrity": "SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\favicon.png",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "favicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ifv42okdf2",
+      "Integrity": "4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\2264086.jpg-c_310_420_x-f_jpg-q_x-xxyxx.jpg",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "image/2264086.jpg-c_310_420_x-f_jpg-q_x-xxyxx#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7vb3bbmznw",
+      "Integrity": "LYp5gjrr4TL5PzC2pkZ+gi9VmHL1J/Uq/0jdNK8kDdc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\2264086.jpg-c_310_420_x-f_jpg-q_x-xxyxx.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\asd.jpg",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "image/asd#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "do2vqiskty",
+      "Integrity": "TcEH2mUoI+R9k+ll4WJ5itwMCP1Cic+fFXKfUf6bqpM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\asd.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\avatar.jpg",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "image/avatar#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tlf3af7aoc",
+      "Integrity": "P7i9Ke1YMHu1fVLPiShfLpaPHxrcRcuc3qMiHTzLU10=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\avatar.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\avengers.jpg",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "image/avengers#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mjdgxru6aa",
+      "Integrity": "buoLpOPYskbLJUeIdQUihmrY7MFajXDoOlOYGgmS5v4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\avengers.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\dark_knight_rises.jpg",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "image/dark_knight_rises#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jy80da47gm",
+      "Integrity": "W8Jv+2TA/j932O7iPz+H5wYSkfsoZP913iSYWFGkt8I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\dark_knight_rises.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\dark_knight.jpg",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "image/dark_knight#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d7gr1adgk2",
+      "Integrity": "yWPrZzE3BTtuBoyuMhiG4swQRDPEHQCbU73wHlu5O5U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\dark_knight.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\django_unchained.jpg",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "image/django_unchained#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "46n7y6kwts",
+      "Integrity": "DOtO0fJ9eWMdqqZZ/D900jHsegcL546gkLhtynTRdD4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\django_unchained.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\fight_club.jpg",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "image/fight_club#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "42cu7ynkv9",
+      "Integrity": "dMgCbo7GVimzYbySkWLtVNnMjjrWwIf09Z06I9Kpu9Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\fight_club.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\forrest_gump.jpg",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "image/forrest_gump#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bvw903h4e1",
+      "Integrity": "WfUNQi+ndI3SwbeM/HHEB4Y2f1rL4lkgTkayqLkCTMM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\forrest_gump.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\gladiator.jpg",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "image/gladiator#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "io527m602a",
+      "Integrity": "QmiTcXWNa9wIDL8uepSxz+J2g5GcyMMX5cD24NARHuw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\gladiator.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\godfather.jpg",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "image/godfather#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x7ga84pspk",
+      "Integrity": "Y2eQpbfUa6/N6WGOB51aNISqaD53sTbLrcqtakr1GLU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\godfather.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\inception.jpg",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "image/inception#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "44d6yprxzs",
+      "Integrity": "5N0VgkxUioBb243OLKP1RkW4LkM+o6d1oCLIGEdhP/I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\inception.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\interstellar.jpg",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "image/interstellar#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "etqj3xoedu",
+      "Integrity": "fuqPtak/7vaBKpXAsGMbBfN7aWlyrIO4P6znxPKdX/A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\interstellar.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\lion_king.jpg",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "image/lion_king#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7t4m7fa29g",
+      "Integrity": "JRsRoXvPtNeDYRM+HvDQ+06VbaYdp+tfk3vMN9ExWaU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\lion_king.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\matrix.jpg",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "image/matrix#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jnfs55rsh1",
+      "Integrity": "P0dEQR5bl0IRUy+JOY8yYub3pclGKS2T5Ojg5g0aTcY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\matrix.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\MV5B_.jpg",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "image/MV5B_#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w3z83xwv55",
+      "Integrity": "vCr3bnl1oBhPCCu5Yn4nPrvHsX1lg4TIhvDItq7LiAc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\MV5B_.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\parasite.jpg",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "image/parasite#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gzhv7i8zrq",
+      "Integrity": "NGT4AbJZc0q4t+J5iU4ZNc6WFKHAe0+idxc6W+PNBhc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\parasite.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\prestige.jpg",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "image/prestige#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5bc6luakih",
+      "Integrity": "0ZCHeerAbThlBGzbBi7/iL5dVI4G64yQfBFb3pYwRLE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\prestige.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\pulp_fiction.jpg",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "image/pulp_fiction#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5a3izg394w",
+      "Integrity": "HZT52wfSCP5dJGqzGoRiR1jf9xkJyL1v30QeVYZORR8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\pulp_fiction.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\schindlers_list.jpg",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "image/schindlers_list#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0022z3cmft",
+      "Integrity": "YFosZvzV/Kap1zEEnnD4crjaaBeG5BQ0ACEqIzDcnIE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\schindlers_list.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\shawshank_redemption.jpg",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "image/shawshank_redemption#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pz2o0dal66",
+      "Integrity": "26aEos4eLBeSgRN5ljhr4NXwVE+DmhNOwnowdo/BwyM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\shawshank_redemption.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\silence_of_the_lambs.jpg",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "image/silence_of_the_lambs#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6pouhxfnpa",
+      "Integrity": "il2jSeO+xFo8GhmvQoMireOksyea6N0gVDLYdeXawNw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\silence_of_the_lambs.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\titanic.jpg",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "image/titanic#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nfzko99d63",
+      "Integrity": "nWOH/EDAARLXwaopISA+p63EwaXkTjRBl+aXmMXFZIo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\titanic.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\vbG0zu0lIVDZZaUVOZuBIE9kno3.jpg",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "image/vbG0zu0lIVDZZaUVOZuBIE9kno3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wddarjlj4n",
+      "Integrity": "RJkwLX46Gjpo73xsB6zX9MUR7tHdySqYjYnBDrtS63E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\vbG0zu0lIVDZZaUVOZuBIE9kno3.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 17:45:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        }
+      ]
+    },
+    {
+      "Route": "app.da95v2qkru.css",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 17:45:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "da95v2qkru"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorApp1.72xb8i838x.bundle.scp.css",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorApp1.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5903"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H0yk2f3SKVI6BzyDxugrSmp2TQwR1fd/2rrOvmD2jFA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 18:00:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "72xb8i838x"
+        },
+        {
+          "Name": "label",
+          "Value": "BlazorApp1.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-H0yk2f3SKVI6BzyDxugrSmp2TQwR1fd/2rrOvmD2jFA="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorApp1.72xb8i838x.styles.css",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorApp1.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5903"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H0yk2f3SKVI6BzyDxugrSmp2TQwR1fd/2rrOvmD2jFA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 18:00:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "72xb8i838x"
+        },
+        {
+          "Name": "label",
+          "Value": "BlazorApp1.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-H0yk2f3SKVI6BzyDxugrSmp2TQwR1fd/2rrOvmD2jFA="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorApp1.bundle.scp.css",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorApp1.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5903"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H0yk2f3SKVI6BzyDxugrSmp2TQwR1fd/2rrOvmD2jFA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 18:00:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-H0yk2f3SKVI6BzyDxugrSmp2TQwR1fd/2rrOvmD2jFA="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorApp1.styles.css",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorApp1.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5903"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H0yk2f3SKVI6BzyDxugrSmp2TQwR1fd/2rrOvmD2jFA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 18:00:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-H0yk2f3SKVI6BzyDxugrSmp2TQwR1fd/2rrOvmD2jFA="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 17:45:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 17:45:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 17:45:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 17:45:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ifv42okdf2.png",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 17:45:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifv42okdf2"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.png",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 17:45:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "image/2264086.jpg-c_310_420_x-f_jpg-q_x-xxyxx.7vb3bbmznw.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\2264086.jpg-c_310_420_x-f_jpg-q_x-xxyxx.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26470"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LYp5gjrr4TL5PzC2pkZ+gi9VmHL1J/Uq/0jdNK8kDdc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 18:34:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7vb3bbmznw"
+        },
+        {
+          "Name": "label",
+          "Value": "image/2264086.jpg-c_310_420_x-f_jpg-q_x-xxyxx.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LYp5gjrr4TL5PzC2pkZ+gi9VmHL1J/Uq/0jdNK8kDdc="
+        }
+      ]
+    },
+    {
+      "Route": "image/2264086.jpg-c_310_420_x-f_jpg-q_x-xxyxx.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\2264086.jpg-c_310_420_x-f_jpg-q_x-xxyxx.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26470"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LYp5gjrr4TL5PzC2pkZ+gi9VmHL1J/Uq/0jdNK8kDdc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 18:34:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LYp5gjrr4TL5PzC2pkZ+gi9VmHL1J/Uq/0jdNK8kDdc="
+        }
+      ]
+    },
+    {
+      "Route": "image/asd.do2vqiskty.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\asd.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22271"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TcEH2mUoI+R9k+ll4WJ5itwMCP1Cic+fFXKfUf6bqpM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:09:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "do2vqiskty"
+        },
+        {
+          "Name": "label",
+          "Value": "image/asd.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TcEH2mUoI+R9k+ll4WJ5itwMCP1Cic+fFXKfUf6bqpM="
+        }
+      ]
+    },
+    {
+      "Route": "image/asd.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\asd.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22271"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TcEH2mUoI+R9k+ll4WJ5itwMCP1Cic+fFXKfUf6bqpM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:09:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TcEH2mUoI+R9k+ll4WJ5itwMCP1Cic+fFXKfUf6bqpM="
+        }
+      ]
+    },
+    {
+      "Route": "image/avatar.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\avatar.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8776"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P7i9Ke1YMHu1fVLPiShfLpaPHxrcRcuc3qMiHTzLU10=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 20:21:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-P7i9Ke1YMHu1fVLPiShfLpaPHxrcRcuc3qMiHTzLU10="
+        }
+      ]
+    },
+    {
+      "Route": "image/avatar.tlf3af7aoc.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\avatar.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8776"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P7i9Ke1YMHu1fVLPiShfLpaPHxrcRcuc3qMiHTzLU10=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 20:21:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tlf3af7aoc"
+        },
+        {
+          "Name": "label",
+          "Value": "image/avatar.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-P7i9Ke1YMHu1fVLPiShfLpaPHxrcRcuc3qMiHTzLU10="
+        }
+      ]
+    },
+    {
+      "Route": "image/avengers.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\avengers.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15125"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"buoLpOPYskbLJUeIdQUihmrY7MFajXDoOlOYGgmS5v4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 20:21:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-buoLpOPYskbLJUeIdQUihmrY7MFajXDoOlOYGgmS5v4="
+        }
+      ]
+    },
+    {
+      "Route": "image/avengers.mjdgxru6aa.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\avengers.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15125"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"buoLpOPYskbLJUeIdQUihmrY7MFajXDoOlOYGgmS5v4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 20:21:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mjdgxru6aa"
+        },
+        {
+          "Name": "label",
+          "Value": "image/avengers.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-buoLpOPYskbLJUeIdQUihmrY7MFajXDoOlOYGgmS5v4="
+        }
+      ]
+    },
+    {
+      "Route": "image/dark_knight_rises.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\dark_knight_rises.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12101"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W8Jv+2TA/j932O7iPz+H5wYSkfsoZP913iSYWFGkt8I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 20:21:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W8Jv+2TA/j932O7iPz+H5wYSkfsoZP913iSYWFGkt8I="
+        }
+      ]
+    },
+    {
+      "Route": "image/dark_knight_rises.jy80da47gm.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\dark_knight_rises.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12101"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W8Jv+2TA/j932O7iPz+H5wYSkfsoZP913iSYWFGkt8I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 20:21:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jy80da47gm"
+        },
+        {
+          "Name": "label",
+          "Value": "image/dark_knight_rises.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W8Jv+2TA/j932O7iPz+H5wYSkfsoZP913iSYWFGkt8I="
+        }
+      ]
+    },
+    {
+      "Route": "image/dark_knight.d7gr1adgk2.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\dark_knight.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8464"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yWPrZzE3BTtuBoyuMhiG4swQRDPEHQCbU73wHlu5O5U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 20:21:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d7gr1adgk2"
+        },
+        {
+          "Name": "label",
+          "Value": "image/dark_knight.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yWPrZzE3BTtuBoyuMhiG4swQRDPEHQCbU73wHlu5O5U="
+        }
+      ]
+    },
+    {
+      "Route": "image/dark_knight.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\dark_knight.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8464"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yWPrZzE3BTtuBoyuMhiG4swQRDPEHQCbU73wHlu5O5U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 20:21:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yWPrZzE3BTtuBoyuMhiG4swQRDPEHQCbU73wHlu5O5U="
+        }
+      ]
+    },
+    {
+      "Route": "image/django_unchained.46n7y6kwts.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\django_unchained.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13909"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DOtO0fJ9eWMdqqZZ/D900jHsegcL546gkLhtynTRdD4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 20:21:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "46n7y6kwts"
+        },
+        {
+          "Name": "label",
+          "Value": "image/django_unchained.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DOtO0fJ9eWMdqqZZ/D900jHsegcL546gkLhtynTRdD4="
+        }
+      ]
+    },
+    {
+      "Route": "image/django_unchained.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\django_unchained.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13909"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DOtO0fJ9eWMdqqZZ/D900jHsegcL546gkLhtynTRdD4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 20:21:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DOtO0fJ9eWMdqqZZ/D900jHsegcL546gkLhtynTRdD4="
+        }
+      ]
+    },
+    {
+      "Route": "image/fight_club.42cu7ynkv9.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\fight_club.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10984"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dMgCbo7GVimzYbySkWLtVNnMjjrWwIf09Z06I9Kpu9Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 20:21:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "42cu7ynkv9"
+        },
+        {
+          "Name": "label",
+          "Value": "image/fight_club.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dMgCbo7GVimzYbySkWLtVNnMjjrWwIf09Z06I9Kpu9Y="
+        }
+      ]
+    },
+    {
+      "Route": "image/fight_club.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\fight_club.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10984"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dMgCbo7GVimzYbySkWLtVNnMjjrWwIf09Z06I9Kpu9Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 20:21:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dMgCbo7GVimzYbySkWLtVNnMjjrWwIf09Z06I9Kpu9Y="
+        }
+      ]
+    },
+    {
+      "Route": "image/forrest_gump.bvw903h4e1.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\forrest_gump.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7251"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WfUNQi+ndI3SwbeM/HHEB4Y2f1rL4lkgTkayqLkCTMM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 20:21:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bvw903h4e1"
+        },
+        {
+          "Name": "label",
+          "Value": "image/forrest_gump.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WfUNQi+ndI3SwbeM/HHEB4Y2f1rL4lkgTkayqLkCTMM="
+        }
+      ]
+    },
+    {
+      "Route": "image/forrest_gump.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\forrest_gump.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7251"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WfUNQi+ndI3SwbeM/HHEB4Y2f1rL4lkgTkayqLkCTMM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 20:21:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WfUNQi+ndI3SwbeM/HHEB4Y2f1rL4lkgTkayqLkCTMM="
+        }
+      ]
+    },
+    {
+      "Route": "image/gladiator.io527m602a.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\gladiator.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7536"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QmiTcXWNa9wIDL8uepSxz+J2g5GcyMMX5cD24NARHuw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 20:21:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "io527m602a"
+        },
+        {
+          "Name": "label",
+          "Value": "image/gladiator.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QmiTcXWNa9wIDL8uepSxz+J2g5GcyMMX5cD24NARHuw="
+        }
+      ]
+    },
+    {
+      "Route": "image/gladiator.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\gladiator.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7536"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QmiTcXWNa9wIDL8uepSxz+J2g5GcyMMX5cD24NARHuw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 20:21:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QmiTcXWNa9wIDL8uepSxz+J2g5GcyMMX5cD24NARHuw="
+        }
+      ]
+    },
+    {
+      "Route": "image/godfather.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\godfather.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8288"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y2eQpbfUa6/N6WGOB51aNISqaD53sTbLrcqtakr1GLU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 20:21:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y2eQpbfUa6/N6WGOB51aNISqaD53sTbLrcqtakr1GLU="
+        }
+      ]
+    },
+    {
+      "Route": "image/godfather.x7ga84pspk.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\godfather.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8288"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y2eQpbfUa6/N6WGOB51aNISqaD53sTbLrcqtakr1GLU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 20:21:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x7ga84pspk"
+        },
+        {
+          "Name": "label",
+          "Value": "image/godfather.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y2eQpbfUa6/N6WGOB51aNISqaD53sTbLrcqtakr1GLU="
+        }
+      ]
+    },
+    {
+      "Route": "image/inception.44d6yprxzs.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\inception.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13000"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5N0VgkxUioBb243OLKP1RkW4LkM+o6d1oCLIGEdhP/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 20:21:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "44d6yprxzs"
+        },
+        {
+          "Name": "label",
+          "Value": "image/inception.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5N0VgkxUioBb243OLKP1RkW4LkM+o6d1oCLIGEdhP/I="
+        }
+      ]
+    },
+    {
+      "Route": "image/inception.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\inception.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13000"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5N0VgkxUioBb243OLKP1RkW4LkM+o6d1oCLIGEdhP/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 20:21:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5N0VgkxUioBb243OLKP1RkW4LkM+o6d1oCLIGEdhP/I="
+        }
+      ]
+    },
+    {
+      "Route": "image/interstellar.etqj3xoedu.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\interstellar.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11773"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fuqPtak/7vaBKpXAsGMbBfN7aWlyrIO4P6znxPKdX/A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 20:21:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "etqj3xoedu"
+        },
+        {
+          "Name": "label",
+          "Value": "image/interstellar.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fuqPtak/7vaBKpXAsGMbBfN7aWlyrIO4P6znxPKdX/A="
+        }
+      ]
+    },
+    {
+      "Route": "image/interstellar.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\interstellar.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11773"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fuqPtak/7vaBKpXAsGMbBfN7aWlyrIO4P6znxPKdX/A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 20:21:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fuqPtak/7vaBKpXAsGMbBfN7aWlyrIO4P6znxPKdX/A="
+        }
+      ]
+    },
+    {
+      "Route": "image/lion_king.7t4m7fa29g.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\lion_king.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8218"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JRsRoXvPtNeDYRM+HvDQ+06VbaYdp+tfk3vMN9ExWaU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 20:21:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7t4m7fa29g"
+        },
+        {
+          "Name": "label",
+          "Value": "image/lion_king.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JRsRoXvPtNeDYRM+HvDQ+06VbaYdp+tfk3vMN9ExWaU="
+        }
+      ]
+    },
+    {
+      "Route": "image/lion_king.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\lion_king.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8218"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JRsRoXvPtNeDYRM+HvDQ+06VbaYdp+tfk3vMN9ExWaU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 20:21:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JRsRoXvPtNeDYRM+HvDQ+06VbaYdp+tfk3vMN9ExWaU="
+        }
+      ]
+    },
+    {
+      "Route": "image/matrix.jnfs55rsh1.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\matrix.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11650"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P0dEQR5bl0IRUy+JOY8yYub3pclGKS2T5Ojg5g0aTcY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 20:21:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jnfs55rsh1"
+        },
+        {
+          "Name": "label",
+          "Value": "image/matrix.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-P0dEQR5bl0IRUy+JOY8yYub3pclGKS2T5Ojg5g0aTcY="
+        }
+      ]
+    },
+    {
+      "Route": "image/matrix.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\matrix.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11650"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P0dEQR5bl0IRUy+JOY8yYub3pclGKS2T5Ojg5g0aTcY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 20:21:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-P0dEQR5bl0IRUy+JOY8yYub3pclGKS2T5Ojg5g0aTcY="
+        }
+      ]
+    },
+    {
+      "Route": "image/MV5B_.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\MV5B_.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "215848"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vCr3bnl1oBhPCCu5Yn4nPrvHsX1lg4TIhvDItq7LiAc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:01:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vCr3bnl1oBhPCCu5Yn4nPrvHsX1lg4TIhvDItq7LiAc="
+        }
+      ]
+    },
+    {
+      "Route": "image/MV5B_.w3z83xwv55.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\MV5B_.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "215848"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vCr3bnl1oBhPCCu5Yn4nPrvHsX1lg4TIhvDItq7LiAc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:01:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w3z83xwv55"
+        },
+        {
+          "Name": "label",
+          "Value": "image/MV5B_.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vCr3bnl1oBhPCCu5Yn4nPrvHsX1lg4TIhvDItq7LiAc="
+        }
+      ]
+    },
+    {
+      "Route": "image/parasite.gzhv7i8zrq.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\parasite.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10754"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NGT4AbJZc0q4t+J5iU4ZNc6WFKHAe0+idxc6W+PNBhc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 20:21:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gzhv7i8zrq"
+        },
+        {
+          "Name": "label",
+          "Value": "image/parasite.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NGT4AbJZc0q4t+J5iU4ZNc6WFKHAe0+idxc6W+PNBhc="
+        }
+      ]
+    },
+    {
+      "Route": "image/parasite.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\parasite.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10754"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NGT4AbJZc0q4t+J5iU4ZNc6WFKHAe0+idxc6W+PNBhc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 20:21:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NGT4AbJZc0q4t+J5iU4ZNc6WFKHAe0+idxc6W+PNBhc="
+        }
+      ]
+    },
+    {
+      "Route": "image/prestige.5bc6luakih.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\prestige.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6048"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0ZCHeerAbThlBGzbBi7/iL5dVI4G64yQfBFb3pYwRLE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 20:21:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5bc6luakih"
+        },
+        {
+          "Name": "label",
+          "Value": "image/prestige.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0ZCHeerAbThlBGzbBi7/iL5dVI4G64yQfBFb3pYwRLE="
+        }
+      ]
+    },
+    {
+      "Route": "image/prestige.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\prestige.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6048"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0ZCHeerAbThlBGzbBi7/iL5dVI4G64yQfBFb3pYwRLE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 20:21:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0ZCHeerAbThlBGzbBi7/iL5dVI4G64yQfBFb3pYwRLE="
+        }
+      ]
+    },
+    {
+      "Route": "image/pulp_fiction.5a3izg394w.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\pulp_fiction.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14431"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HZT52wfSCP5dJGqzGoRiR1jf9xkJyL1v30QeVYZORR8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 20:21:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5a3izg394w"
+        },
+        {
+          "Name": "label",
+          "Value": "image/pulp_fiction.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HZT52wfSCP5dJGqzGoRiR1jf9xkJyL1v30QeVYZORR8="
+        }
+      ]
+    },
+    {
+      "Route": "image/pulp_fiction.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\pulp_fiction.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14431"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HZT52wfSCP5dJGqzGoRiR1jf9xkJyL1v30QeVYZORR8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 20:21:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HZT52wfSCP5dJGqzGoRiR1jf9xkJyL1v30QeVYZORR8="
+        }
+      ]
+    },
+    {
+      "Route": "image/schindlers_list.0022z3cmft.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\schindlers_list.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11084"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YFosZvzV/Kap1zEEnnD4crjaaBeG5BQ0ACEqIzDcnIE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 20:21:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0022z3cmft"
+        },
+        {
+          "Name": "label",
+          "Value": "image/schindlers_list.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YFosZvzV/Kap1zEEnnD4crjaaBeG5BQ0ACEqIzDcnIE="
+        }
+      ]
+    },
+    {
+      "Route": "image/schindlers_list.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\schindlers_list.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11084"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YFosZvzV/Kap1zEEnnD4crjaaBeG5BQ0ACEqIzDcnIE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 20:21:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YFosZvzV/Kap1zEEnnD4crjaaBeG5BQ0ACEqIzDcnIE="
+        }
+      ]
+    },
+    {
+      "Route": "image/shawshank_redemption.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\shawshank_redemption.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9886"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"26aEos4eLBeSgRN5ljhr4NXwVE+DmhNOwnowdo/BwyM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 20:21:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-26aEos4eLBeSgRN5ljhr4NXwVE+DmhNOwnowdo/BwyM="
+        }
+      ]
+    },
+    {
+      "Route": "image/shawshank_redemption.pz2o0dal66.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\shawshank_redemption.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9886"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"26aEos4eLBeSgRN5ljhr4NXwVE+DmhNOwnowdo/BwyM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 20:21:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pz2o0dal66"
+        },
+        {
+          "Name": "label",
+          "Value": "image/shawshank_redemption.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-26aEos4eLBeSgRN5ljhr4NXwVE+DmhNOwnowdo/BwyM="
+        }
+      ]
+    },
+    {
+      "Route": "image/silence_of_the_lambs.6pouhxfnpa.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\silence_of_the_lambs.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7823"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"il2jSeO+xFo8GhmvQoMireOksyea6N0gVDLYdeXawNw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 20:21:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6pouhxfnpa"
+        },
+        {
+          "Name": "label",
+          "Value": "image/silence_of_the_lambs.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-il2jSeO+xFo8GhmvQoMireOksyea6N0gVDLYdeXawNw="
+        }
+      ]
+    },
+    {
+      "Route": "image/silence_of_the_lambs.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\silence_of_the_lambs.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7823"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"il2jSeO+xFo8GhmvQoMireOksyea6N0gVDLYdeXawNw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 20:21:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-il2jSeO+xFo8GhmvQoMireOksyea6N0gVDLYdeXawNw="
+        }
+      ]
+    },
+    {
+      "Route": "image/titanic.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\titanic.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11220"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nWOH/EDAARLXwaopISA+p63EwaXkTjRBl+aXmMXFZIo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 20:21:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nWOH/EDAARLXwaopISA+p63EwaXkTjRBl+aXmMXFZIo="
+        }
+      ]
+    },
+    {
+      "Route": "image/titanic.nfzko99d63.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\titanic.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11220"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nWOH/EDAARLXwaopISA+p63EwaXkTjRBl+aXmMXFZIo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 20:21:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nfzko99d63"
+        },
+        {
+          "Name": "label",
+          "Value": "image/titanic.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nWOH/EDAARLXwaopISA+p63EwaXkTjRBl+aXmMXFZIo="
+        }
+      ]
+    },
+    {
+      "Route": "image/vbG0zu0lIVDZZaUVOZuBIE9kno3.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\vbG0zu0lIVDZZaUVOZuBIE9kno3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41138"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RJkwLX46Gjpo73xsB6zX9MUR7tHdySqYjYnBDrtS63E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 18:34:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RJkwLX46Gjpo73xsB6zX9MUR7tHdySqYjYnBDrtS63E="
+        }
+      ]
+    },
+    {
+      "Route": "image/vbG0zu0lIVDZZaUVOZuBIE9kno3.wddarjlj4n.jpg",
+      "AssetFile": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\vbG0zu0lIVDZZaUVOZuBIE9kno3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41138"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RJkwLX46Gjpo73xsB6zX9MUR7tHdySqYjYnBDrtS63E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 18:34:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wddarjlj4n"
+        },
+        {
+          "Name": "label",
+          "Value": "image/vbG0zu0lIVDZZaUVOZuBIE9kno3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RJkwLX46Gjpo73xsB6zX9MUR7tHdySqYjYnBDrtS63E="
+        }
+      ]
+    }
+  ]
+}

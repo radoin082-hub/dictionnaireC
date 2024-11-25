@@ -1,0 +1,147 @@
+﻿@page "/counter"
+@rendermode InteractiveServer
+
+@using System.Xml.Linq
+
+<PageTitle>Word Search</PageTitle>
+
+<h1>Word Search in XML Files</h1>
+
+<div>
+    <input type="text" @bind="searchWord" placeholder="Enter a word to search" />
+    <button class="btn btn-primary" @onclick="SearchForWord">Search</button>
+    <button class="btn btn-secondary" @onclick="GenerateWordOccurrenceTable">Show Indexing Table</button>
+</div>
+
+@if (searchResults != null)
+{
+    @if (searchResults.Count > 0)
+    {
+        <h3>Search Results for '@searchWord':</h3>
+        <ul>
+            @foreach (var file in searchResults)
+            {
+                <li>@file</li>
+            }
+        </ul>
+    }
+    else
+    {
+        <p>No results found for '@searchWord'.</p>
+    }
+}
+
+@if (wordOccurrenceTable != null)
+{
+    <h3>Word Occurrence Table:</h3>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Word</th>
+                @foreach (var file in filePaths)
+                {
+                    <th>@Path.GetFileName(file)</th>
+                }
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var word in wordOccurrenceTable.Keys)
+            {
+                <tr>
+                    <td>@word</td>
+                    @foreach (var file in filePaths)
+                    {
+                        <td>@(wordOccurrenceTable[word].Contains(file) ? 1 : 0)</td>
+                    }
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private string searchWord;
+    private HashSet<string> searchResults;
+
+    private Dictionary<string, HashSet<string>> wordDictionary = new();
+    private Dictionary<string, HashSet<string>> wordOccurrenceTable;
+    private List<string> filePaths = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        // Generate file paths dynamically
+        string basePath = @"C:\Users\radoi\source\repos\dictionnaireC#\dictionnaireC#\";
+        for (int i = 1; i <= 100; i++)
+        {
+            filePaths.Add(Path.Combine(basePath, $"file{i}.xml"));
+        }
+
+        // Load words from all XML files
+        await LoadWordsFromXmlFiles(filePaths);
+    }
+
+    private async Task LoadWordsFromXmlFiles(List<string> filePaths)
+    {
+        foreach (var filePath in filePaths)
+        {
+            if (File.Exists(filePath))
+            {
+                try
+                {
+                    var xmlContent = await File.ReadAllTextAsync(filePath);
+                    var xDoc = XDocument.Parse(xmlContent);
+
+                    // Extract <description> text
+                    var articleNodes = xDoc.Descendants("description")
+                        .Select(article => article.Value);
+
+                    foreach (var article in articleNodes)
+                    {
+                        var words = article.ToLower()
+                            .Split(new[] { ' ', ',', '.', '!', '?', ';', ':', '(', ')', '\n', '\r', '\t' }, StringSplitOptions.RemoveEmptyEntries);
+
+                        foreach (var word in words)
+                        {
+                            if (!wordDictionary.ContainsKey(word))
+                            {
+                                wordDictionary[word] = new HashSet<string>();
+                            }
+                            wordDictionary[word].Add(filePath);
+                        }
+                    }
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine($"Error loading file {filePath}: {ex.Message}");
+                }
+            }
+            else
+            {
+                Console.WriteLine($"File not found: {filePath}");
+            }
+        }
+    }
+
+    private void SearchForWord()
+    {
+        if (string.IsNullOrWhiteSpace(searchWord))
+        {
+            searchResults = null;
+            return;
+        }
+
+        searchResults = wordDictionary.TryGetValue(searchWord.ToLower(), out var files)
+            ? files
+            : new HashSet<string>();
+    }
+
+    private void GenerateWordOccurrenceTable()
+    {
+        wordOccurrenceTable = new Dictionary<string, HashSet<string>>();
+
+        foreach (var word in wordDictionary.Keys)
+        {
+            wordOccurrenceTable[word] = new HashSet<string>(wordDictionary[word]);
+        }
+    }
+}

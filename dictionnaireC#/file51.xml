@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<films>
+  <film>
+    <title>Inception</title>
+    <description>A mysterious disappearance forces a detective to uncover dark family secrets.</description>
+    <image>/image/pulp_fiction.jpg</image>
+    <category>Action</category>
+  </film>
+</films>

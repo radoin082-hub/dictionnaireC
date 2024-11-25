@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<films>
+  <film>
+    <title>The Dark Knight</title>
+    <description>A young woman must outsmart a ruthless corporation to protect her family and future.</description>
+    <image>/image/asd.jpg</image>
+    <category>Action</category>
+  </film>
+</films>

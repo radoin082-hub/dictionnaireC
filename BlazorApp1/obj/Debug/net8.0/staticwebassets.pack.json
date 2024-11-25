@@ -1,0 +1,141 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorApp1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorApp1.72xb8i838x.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\2264086.jpg-c_310_420_x-f_jpg-q_x-xxyxx.jpg",
+      "PackagePath": "staticwebassets\\image\\2264086.jpg-c_310_420_x-f_jpg-q_x-xxyxx.jpg"
+    },
+    {
+      "Id": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\MV5B_.jpg",
+      "PackagePath": "staticwebassets\\image\\MV5B_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\asd.jpg",
+      "PackagePath": "staticwebassets\\image\\asd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\avatar.jpg",
+      "PackagePath": "staticwebassets\\image\\avatar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\avengers.jpg",
+      "PackagePath": "staticwebassets\\image\\avengers.jpg"
+    },
+    {
+      "Id": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\dark_knight.jpg",
+      "PackagePath": "staticwebassets\\image\\dark_knight.jpg"
+    },
+    {
+      "Id": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\dark_knight_rises.jpg",
+      "PackagePath": "staticwebassets\\image\\dark_knight_rises.jpg"
+    },
+    {
+      "Id": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\django_unchained.jpg",
+      "PackagePath": "staticwebassets\\image\\django_unchained.jpg"
+    },
+    {
+      "Id": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\fight_club.jpg",
+      "PackagePath": "staticwebassets\\image\\fight_club.jpg"
+    },
+    {
+      "Id": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\forrest_gump.jpg",
+      "PackagePath": "staticwebassets\\image\\forrest_gump.jpg"
+    },
+    {
+      "Id": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\gladiator.jpg",
+      "PackagePath": "staticwebassets\\image\\gladiator.jpg"
+    },
+    {
+      "Id": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\godfather.jpg",
+      "PackagePath": "staticwebassets\\image\\godfather.jpg"
+    },
+    {
+      "Id": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\inception.jpg",
+      "PackagePath": "staticwebassets\\image\\inception.jpg"
+    },
+    {
+      "Id": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\interstellar.jpg",
+      "PackagePath": "staticwebassets\\image\\interstellar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\lion_king.jpg",
+      "PackagePath": "staticwebassets\\image\\lion_king.jpg"
+    },
+    {
+      "Id": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\matrix.jpg",
+      "PackagePath": "staticwebassets\\image\\matrix.jpg"
+    },
+    {
+      "Id": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\parasite.jpg",
+      "PackagePath": "staticwebassets\\image\\parasite.jpg"
+    },
+    {
+      "Id": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\prestige.jpg",
+      "PackagePath": "staticwebassets\\image\\prestige.jpg"
+    },
+    {
+      "Id": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\pulp_fiction.jpg",
+      "PackagePath": "staticwebassets\\image\\pulp_fiction.jpg"
+    },
+    {
+      "Id": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\schindlers_list.jpg",
+      "PackagePath": "staticwebassets\\image\\schindlers_list.jpg"
+    },
+    {
+      "Id": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\shawshank_redemption.jpg",
+      "PackagePath": "staticwebassets\\image\\shawshank_redemption.jpg"
+    },
+    {
+      "Id": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\silence_of_the_lambs.jpg",
+      "PackagePath": "staticwebassets\\image\\silence_of_the_lambs.jpg"
+    },
+    {
+      "Id": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\titanic.jpg",
+      "PackagePath": "staticwebassets\\image\\titanic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\radoi\\source\\repos\\dictionnaireC#\\BlazorApp1\\wwwroot\\image\\vbG0zu0lIVDZZaUVOZuBIE9kno3.jpg",
+      "PackagePath": "staticwebassets\\image\\vbG0zu0lIVDZZaUVOZuBIE9kno3.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorApp1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorApp1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorApp1.props",
+      "PackagePath": "build\\BlazorApp1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorApp1.props",
+      "PackagePath": "buildMultiTargeting\\BlazorApp1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorApp1.props",
+      "PackagePath": "buildTransitive\\BlazorApp1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

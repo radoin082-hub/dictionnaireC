@@ -1,6 +1,9 @@
-<article>
-	To make your text convincing, choose reliable, up-to-date, and unbiased sources. If you use online sources, look for the author’s name and the date the page was last updated. If you can’t find the author’s name, it may be better to use another source. Wiki articles, which have multiple authors, are an exception. If you’re writing such content, simply check to see if outside sources were used to support the information [4].
-	Depending on your chosen topic, the source should be dated between a few months and a few years. In general, the more up-to-date your information is, the more accurate it is kharia .
-	Let’s say you’re writing about new trends in Christmas appetizers. You probably don’t want to read a cookbook from 1975. radoin
-
-</article>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<films>
+  <film>
+    <title>Interstellar</title>
+    <description>A mysterious disappearance forces a detective to uncover dark family secrets.</description>
+    <image>/image/matrix.jpg</image>
+    <category>Drama</category>
+  </film>
+</films>

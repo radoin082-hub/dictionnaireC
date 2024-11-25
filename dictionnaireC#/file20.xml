@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<films>
+  <film>
+    <title>Gladiator</title>
+    <description>A tale of love and loss set against the backdrop of a futuristic world.</description>
+    <image>/image/shawshank_redemption.jpg</image>
+    <category>Drama</category>
+  </film>
+</films>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<films>
+  <film>
+    <title>Avatar</title>
+    <description>An unlikely hero rises in a time of war, proving that courage comes in many forms.</description>
+    <image>/image/pulp_fiction.jpg</image>
+    <category>Action</category>
+  </film>
+</films>

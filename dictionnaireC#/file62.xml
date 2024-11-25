@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<films>
+  <film>
+    <title>Parasite</title>
+    <description>A mysterious disappearance forces a detective to uncover dark family secrets.</description>
+    <image>/image/avatar.jpg</image>
+    <category>Sci-Fi</category>
+  </film>
+</films>
