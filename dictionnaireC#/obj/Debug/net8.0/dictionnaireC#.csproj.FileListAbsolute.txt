@@ -1,0 +1,14 @@
+C:\Users\radoi\source\repos\dictionnaireC#\dictionnaireC#\bin\Debug\net8.0\dictionnaireC#.exe
+C:\Users\radoi\source\repos\dictionnaireC#\dictionnaireC#\bin\Debug\net8.0\dictionnaireC#.deps.json
+C:\Users\radoi\source\repos\dictionnaireC#\dictionnaireC#\bin\Debug\net8.0\dictionnaireC#.runtimeconfig.json
+C:\Users\radoi\source\repos\dictionnaireC#\dictionnaireC#\bin\Debug\net8.0\dictionnaireC#.dll
+C:\Users\radoi\source\repos\dictionnaireC#\dictionnaireC#\bin\Debug\net8.0\dictionnaireC#.pdb
+C:\Users\radoi\source\repos\dictionnaireC#\dictionnaireC#\obj\Debug\net8.0\dictionnaireC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radoi\source\repos\dictionnaireC#\dictionnaireC#\obj\Debug\net8.0\dictionnaireC#.AssemblyInfoInputs.cache
+C:\Users\radoi\source\repos\dictionnaireC#\dictionnaireC#\obj\Debug\net8.0\dictionnaireC#.AssemblyInfo.cs
+C:\Users\radoi\source\repos\dictionnaireC#\dictionnaireC#\obj\Debug\net8.0\dictionnaireC#.csproj.CoreCompileInputs.cache
+C:\Users\radoi\source\repos\dictionnaireC#\dictionnaireC#\obj\Debug\net8.0\dictionnaireC#.dll
+C:\Users\radoi\source\repos\dictionnaireC#\dictionnaireC#\obj\Debug\net8.0\refint\dictionnaireC#.dll
+C:\Users\radoi\source\repos\dictionnaireC#\dictionnaireC#\obj\Debug\net8.0\dictionnaireC#.pdb
+C:\Users\radoi\source\repos\dictionnaireC#\dictionnaireC#\obj\Debug\net8.0\dictionnaireC#.genruntimeconfig.cache
+C:\Users\radoi\source\repos\dictionnaireC#\dictionnaireC#\obj\Debug\net8.0\ref\dictionnaireC#.dll
